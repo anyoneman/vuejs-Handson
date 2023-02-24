@@ -31,7 +31,7 @@ console.log(props.notes)
   margin-right: 20px;
   margin-bottom: 20px;
   color: #000;
-  font-size: 400;
+  font-size: 500;
 }
 .main-text {
   line-height: 1.25;
